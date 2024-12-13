@@ -17,6 +17,12 @@ Here is an example of what you'll find in this repository:
 1. **Restaurant Menu Generator**:
    - Creates a unique restaurant headline and suggests a personalized menu based on user input for cuisine and dietary preferences.
 
+2. **Chat with Search**:
+   - A simple chatbot that can search for information on the web and various tools such as Arxiv, Wikipedia and DuckDuckGo. Users can ask questions and the bot will provide responses by leveraging these search tools.
+
+3. **Chat with SQL Database**:
+   - A chatbot that can interact with a SQL database to retrieve information based on user queries. The bot can search for specific data, filter results, and provide relevant information from the database.
+
 
 ## Installation
 
